@@ -1,4 +1,4 @@
-********#Smart Predictive Modeling for Rental Property Prices********
+********Smart Predictive Modeling for Rental Property Prices********
 
 ****Overview****
 This repository contains code and resources for a data-driven approach to predicting rental prices for residential properties. The project aims to provide accurate rent predictions based on historical rental data and property attributes. This predictive model benefits property owners, tenants, and property management companies by aiding in setting competitive prices, informed decision-making, and optimizing portfolio management.
