@@ -11,16 +11,12 @@ This repository contains code and resources for a data-driven approach to predic
 
 **Models:** Saved models after training and optimization.
 
-**Web App:** Contains code for deploying the model as a user-friendly web application or API.
-
 **Documentation:** Includes additional documentation, such as project details, methodologies, and insights gained from the analysis.
 Technologies and Tools Used
 **Python:** Programming language used for data manipulation, analysis, and model development.
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn for data manipulation, visualization, and analysis. Scikit-learn, XGBoost, TensorFlow, or other relevant libraries for machine learning modeling.
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn for data manipulation, visualization, and analysis. Scikit-learn, XGBoost, TensorFlow, or other relevant libraries for machine learning modelling.
 
 **Jupyter Notebooks:** Used for exploratory data analysis, code development, and documentation.
-
-**Web Frameworks:** Flask/Django (or any other chosen framework) for deploying the predictive model as a web application or API.
 
 
 ****Problem Statement and Dataset****
